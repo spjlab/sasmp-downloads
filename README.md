@@ -39,7 +39,7 @@ As versões mais recentes para **macOS** (Apple Silicon/Intel) e **Windows** est
 1. Baixe o instalador `.exe`.
 2. Execute o instalador (instalação automática no perfil do usuário, sem necessidade de privilégios de administrador).
 
-3. > [!NOTE]
+> [!NOTE]
 > **Aviso de Transparência (SmartScreen / Gatekeeper)**
 >
 > Como este software é uma iniciativa independente e sem fins comerciais, ele não utiliza certificados digitais de alto custo (EV Code Signing). Por isso, o Windows ou macOS podem exibir alertas de "Fornecedor Desconhecido" ou "Proteção do PC" na primeira execução.
